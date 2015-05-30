@@ -1,0 +1,1647 @@
+<table class="b-premiere__info"> 
+ <tbody>
+  <tr> 
+   <td class="b-premiere__part"> 
+    <div class="b-premiere__meta">
+      Приключения, драма, Россия, 2014 , 170 мин. 
+    </div> 
+    <div class="b-premiere-desc i-bem" onclick="return {'b\-premiere\-desc':{name:'b\-premiere\-desc'}}">
+      Территория — это место, где люди проверяются на прочность. Необозримые пространства, где тундра встречается с ледяными торосами Ледовитого океана. Суровый русский север, которому способны бросить вызов немногие. Геолог Илья Чинков, одержимый идеей найти легендарное золото Территории, собирает команду смельчаков, готовых поставить на карту все, включая собственные жизни. «Территория» — масштабная приключенческая драма о воле, сильных характерах и любви. Первый российский фильм, снятый в разрешении 4K. 
+    </div> 
+    <div class="b-premiere__controls"> 
+     <div class="b-schedule-links"> 
+      <div class="rasp-link"> 
+       <table> 
+        <tbody>
+         <tr> 
+          <td class="rkassa" style="padding-right: 4em;"> 
+           <y:ticket data-event-id="1493" data-region-id="213" data-template="boring-button"></y:ticket> </td> 
+          <td style="padding: 0 4em 0 0"> <a class="b-link b-critique-link" href="#critique">Отзывы</a> <span style="padding: 0 0 0 .5em; color: #666;">5</span> </td> 
+          <td> Расписание: <a class="b-link b-schedule-link" onclick="r(this, 'stred/pid=59/cid=138/path=spisok')" href="#schedule_table">списком</a>, <a class="b-link b-schedule-link" onclick="r(this, 'stred/pid=59/cid=138/path=map')" href="#schedule_map">на карте</a>. </td> 
+         </tr>
+        </tbody>
+       </table> 
+      </div> 
+     </div> 
+    </div> </td> 
+   <td class="b-premiere__part"> 
+    <table class="b-premiere-data"> 
+     <tbody>
+      <tr class="b-premiere-data__item"> 
+       <td class="b-premiere-data__name">Дата премьеры:</td> 
+       <td class="b-premiere-data__value"> <span> 16 апреля &nbsp; 2015 </span> <span> </span> </td> 
+      </tr> 
+      <tr class="b-premiere-data__item"> 
+       <td class="b-premiere-data__name">Режиссёр:</td> 
+       <td class="b-premiere-data__value">Александр Мельник</td> 
+      </tr> 
+      <tr class="b-premiere-data__item"> 
+       <td class="b-premiere-data__name">В ролях:</td> 
+       <td class="b-premiere-data__value">Константин Лавроненко, Егор Бероев, Григорий Добрыгин, Евгений Цыганов, Ксения Кутепова, Петр Федоров, Ольга Красько, Владислав Абашин, Дмитрий Шаракоис</td> 
+      </tr> 
+     </tbody>
+    </table> </td> 
+  </tr> 
+ </tbody>
+</table>
+___
+___
+___
+___
+___
+<td class="chooser_data"> 
+ <div id="schedule_table_data"> 
+  <div> 
+   <table width="100%" cellspacing="0" cellpadding="0" border="0" class="b-schedule-table b-schedule-table_header_yes" id="js-schedule-table" city-local-time="1430318996"> 
+    <tbody>
+     <tr> 
+      <th width="27%" id="selected">место</th> 
+      <th width="27%"> <a href="?order_by=place__metro_str#schedule_table">метро</a> </th> 
+      <th width="46%"> <span style="float: left; margin-top: 4px; position: relative;">время</span> </th> 
+     </tr> 
+     <tr class="place place_id_10184" id="f"> 
+      <td> <a data-id="10184" title="ул. Покровка, 47/24 тел. +7 (495) 780-91-45" class="place_title" href="/msk/places/10184/">35ММ</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7635660</span>, 
+        <span class="longitude">37.6540620</span> 
+       </div> </td> 
+      <td>Красные Ворота, Курская</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430334900" class="in_time"> 
+         <y:ticket data-session-id="4923605" data-template="instance-sale" data-content="22:15">
+          <span><span>22:15</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2662"> 
+      <td> <a data-id="2662" title="ул. Бахрушина, 25 тел. +7 (495) 916-91-73 (автоответчик), +7 (495) 916-91-69 (заказ билетов)" class="place_title" href="/msk/places/2662/">5 звезд на Павелецкой</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7329600</span>, 
+        <span class="longitude">37.6373800</span> 
+       </div> </td> 
+      <td>Павелецкая</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 13:25 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 17:45 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2664"> 
+      <td> <a data-id="2664" title="ул. Бирюлевская, 17 тел. +7 (495) 916-91-69 (автоответчик), +7 (495) 326-54-82 (заказ билетов)" class="place_title" href="/msk/places/2664/">5 звезд-Бирюлево</a> 
+       <div class="geo"> 
+        <span class="latitude">55.5955520</span>, 
+        <span class="longitude">37.6641140</span> 
+       </div> </td> 
+      <td>Царицыно</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430327400" class="in_time"> 
+         <y:ticket data-session-id="4924238" data-template="instance-sale" data-content="20:10">
+          <span><span>20:10</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2665"> 
+      <td> <a data-id="2665" title="Б. Овчинниковский пер., 16 тел. +7 (495) 916-91-69 (автоответчик и заказ билетов)" class="place_title" href="/msk/places/2665/">5 звезд-Новокузнецкая</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7445000</span>, 
+        <span class="longitude">37.6301760</span> 
+       </div> </td> 
+      <td>Новокузнецкая</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 15:40 </span> </span> </li> 
+        <li data-time="1430321400" class="in_time"> 
+         <y:ticket data-session-id="4911414" data-template="instance-sale" data-content="18:30">
+          <span><span>18:30</span></span>
+         </y:ticket> </li> 
+        <li data-time="1430329800" class="in_time"> 
+         <y:ticket data-session-id="4911402" data-template="instance-sale" data-content="20:50">
+          <span><span>20:50</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2663"> 
+      <td> <a data-id="2663" title="Московская обл., г. Щелково, пл. Ленина, 2а тел. +7 (496) 569-20-22 (автоответчик), +7 (495) 526-48-05, +7 (496) 566-65-66 (заказ билетов)" class="place_title" href="/msk/places/2663/">5 звезд-Щелково</a> 
+       <div class="geo"> 
+        <span class="latitude">55.9213240</span>, 
+        <span class="longitude">37.9918110</span> 
+       </div> </td> 
+      <td>Щелковская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 14:55 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_75516"> 
+      <td> <a data-id="75516" title="Московская обл., г. Краснознаменск, Молодежная, 2/1, ТРЦ «Звездный» тел. +7 (495) 504-35-10" class="place_title" href="/msk/places/75516/">City Stars Звездный (Краснознаменск)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6011410</span>, 
+        <span class="longitude">37.0438200</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:50 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 15:10 </span> </span> </li> 
+        <li data-time="1430337000" class="in_time"> 
+         <y:ticket data-session-id="5013628" data-template="instance-sale" data-content="22:50">
+          <span><span>22:50</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2668"> 
+      <td> <a data-id="2668" title="Ленинградское ш., 5-й км, ТЦ «Мега Химки» тел. +7 (495) 644-41-11 (заказ билетов), 8 (800) 700-01-11" class="place_title" href="/msk/places/2668/">Kinostar De Lux Химки</a> 
+       <div class="geo"> 
+        <span class="latitude">55.9113440</span>, 
+        <span class="longitude">37.3960000</span> 
+       </div> </td> 
+      <td>Планерная, Речной вокзал</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 16:50 </span> </span> </li> 
+        <li data-time="1430335800" class="in_time"> 
+         <y:ticket data-session-id="4957292" data-template="instance-sale" data-content="22:30">
+          <span><span>22:30</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10189"> 
+      <td> <a data-id="10189" title="МКАД, 41-й км, ТЦ «Мега Теплый стан» тел. +7 (495) 644-41-11 (заказ билетов)" class="place_title" href="/msk/places/10189/">Kinostar De Luxe Теплый Стан</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6037600</span>, 
+        <span class="longitude">37.4912510</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 10:25 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 15:50 </span> </span> </li> 
+        <li data-time="1430331000" class="in_time"> 
+         <y:ticket data-session-id="4932458" data-template="instance-sale" data-content="21:10">
+          <span><span>21:10</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10190"> 
+      <td> <a data-id="10190" title="г. Котельники, 1-ый Покровский пр-д, 1, ТЦ «Мега Белая Дача» тел. +7 (495) 644-41-11 (заказ билетов), 8 (800) 700-01-11" class="place_title" href="/msk/places/10190/">Kinostar New York Белая Дача</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6587720</span>, 
+        <span class="longitude">37.8469130</span> 
+       </div> </td> 
+      <td>Выхино, Кузьминки, Люблино</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 12:00 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 15:20 </span> </span> </li> 
+        <li data-time="1430332800" class="in_time"> 
+         <y:ticket data-session-id="5010643" data-template="instance-sale" data-content="21:40">
+          <span><span>21:40</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_74577"> 
+      <td> <a data-id="74577" title="Московская обл., Красногорск г., ул. Знаменская, 5 тел. +7 (495) 229-67-67" class="place_title" href="/msk/places/74577/">Mori Cinema (Красногорск)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8190080</span>, 
+        <span class="longitude">37.3471240</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li data-time="1430329800" class="in_time"> 
+         <y:ticket data-session-id="4959407" data-template="instance-sale" data-content="20:50">
+          <span><span>20:50</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_74288"> 
+      <td> <a data-id="74288" title="Московская обл., г. Мытищи, ул. Мира, стр. 51 тел. +7 (495) 777-83-61" class="place_title" href="/msk/places/74288/">Mori Cinema (Мытищи)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.9198150</span>, 
+        <span class="longitude">37.7082390</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 13:25 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_45039"> 
+      <td> <a data-id="45039" title="ул. Азовская, 24, стр. 3, ТРЦ «Азовский», 3-й этаж тел. +7 (495) 735-40-13" class="place_title" href="/msk/places/45039/">Азовский</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6475430</span>, 
+        <span class="longitude">37.5952220</span> 
+       </div> </td> 
+      <td>Севастопольская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 12:15 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2669"> 
+      <td> <a data-id="2669" title="ул. Шаболовка, 56 тел. +7 (495) 221-52-21 (автоответчик), +7 (495) 954-10-02 (заказ билетов)" class="place_title" href="/msk/places/2669/">Алмаз Синема Алмаз</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7122790</span>, 
+        <span class="longitude">37.6058040</span> 
+       </div> </td> 
+      <td>Шаболовская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 12:00 </span> </span> </li> 
+        <li data-time="1430331300" class="in_time"> 
+         <y:ticket data-session-id="5009215" data-template="instance-sale" data-content="21:15">
+          <span><span>21:15</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2755"> 
+      <td> <a data-id="2755" title="ул. Усиевича, 12/14 тел. +7 (499) 151-34-48 (заказ билетов)" class="place_title" href="/msk/places/2755/">Баку</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8062670</span>, 
+        <span class="longitude">37.5282350</span> 
+       </div> </td> 
+      <td>Аэропорт, Сокол</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:10 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 16:40 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2671"> 
+      <td> <a data-id="2671" title="ул. Сходненская, д. 56, ТРЦ «Калейдоскоп», 3 этаж тел. +7 (495) 775-77-79" class="place_title" href="/msk/places/2671/">Балтика</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8504050</span>, 
+        <span class="longitude">37.4443550</span> 
+       </div> </td> 
+      <td>Сходненская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 15:35 </span> </span> </li> 
+        <li data-time="1430322900" class="in_time"> 
+         <y:ticket data-session-id="5014674" data-template="instance-sale" data-content="18:55">
+          <span><span>18:55</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_50932"> 
+      <td> <a data-id="50932" title="Бульвар Дмитрия Донского, 1, ТЦ «Северное Сияние», 2 этаж тел. +7 (495) 647-49-49, +7 (495) 646-23-87 (администрация)" class="place_title" href="/msk/places/50932/">Бульвар</a> 
+       <div class="geo"> 
+        <span class="latitude">55.5748970</span>, 
+        <span class="longitude">37.5800250</span> 
+       </div> </td> 
+      <td>Бульвар Дмитрия Донского</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 15:15 </span> </span> </li> 
+        <li data-time="1430341200" class="in_time"> <span><span>00:00</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2674"> 
+      <td> <a data-id="2674" title="Варшавское ш., 87б, ТЦ «Варшавский» тел. +7 (495) 221-50-67 (автоответчик), +7 (495) 221-50-68 (бронирование билетов)" class="place_title" href="/msk/places/2674/">Бумеранг на Варшавской</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6536440</span>, 
+        <span class="longitude">37.6206980</span> 
+       </div> </td> 
+      <td>Варшавская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 14:35 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_4778"> 
+      <td> <a data-id="4778" title="Кутузовский просп., 48 тел. +7 (495) 589-19-19 (автоответчик), +7 (495) 666-21-57, +7 (495) 666-21-58 (заказ билетов), +7 (495) 666-21-56" class="place_title" href="/msk/places/4778/">Времена года</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7317130</span>, 
+        <span class="longitude">37.4873530</span> 
+       </div> </td> 
+      <td>Славянский бульвар, Филевский парк</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:30 </span> </span> </li> 
+        <li data-time="1430339100" class="in_time"> 
+         <y:ticket data-session-id="4910294" data-template="instance-sale" data-content="23:25">
+          <span><span>23:25</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2733"> 
+      <td> <a data-id="2733" title="ул. Коминтерна, 8 тел. +7 (499) 184-38-18 (автоответчик), 7 (499) 184-41-09 (заказ билетов)" class="place_title" href="/msk/places/2733/">Вымпел</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8619690</span>, 
+        <span class="longitude">37.6768250</span> 
+       </div> </td> 
+      <td>Свиблово</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:40 </span> </span> </li> 
+        <li data-time="1430328300" class="in_time"> <span><span>20:25</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2676"> 
+      <td> <a data-id="2676" title="ул. Юных Ленинцев, 52 тел. +7 (495) 589-19-19 (единая справочная), +7 (499) 172-78-65 (заказ билетов)" class="place_title" href="/msk/places/2676/">Высота</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6997810</span>, 
+        <span class="longitude">37.7653720</span> 
+       </div> </td> 
+      <td>Кузьминки</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 15:15 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_52088"> 
+      <td> <a data-id="52088" title="Московская обл., г. Долгопрудный, Лихачевский проспект, 64 тел. +7 (495) 746-79-80 (бронирование билетов), +7 (495) 649-69-19 (автоинформатор)" class="place_title" href="/msk/places/52088/">Галакс (Долгопрудный)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.9312350</span>, 
+        <span class="longitude">37.4941530</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li data-time="1430330700" class="in_time"> 
+         <y:ticket data-session-id="4978830" data-template="instance-sale" data-content="21:05">
+          <span><span>21:05</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_75520"> 
+      <td> <a data-id="75520" title="Московская обл., г. Электросталь, просп. Ленина, 0/10, ТЦ «Эльград» тел. +7 (929) 900-06-30, +7 (915) 404-12-34" class="place_title" href="/msk/places/75520/">Галерея кино (Электросталь)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8097230</span>, 
+        <span class="longitude">38.4376520</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 17:00 </span> </span> </li> 
+        <li data-time="1430337600" class="in_time"> 
+         <y:ticket data-session-id="5078362" data-template="instance-sale" data-content="23:00">
+          <span><span>23:00</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_49477"> 
+      <td> <a data-id="49477" title="ул. Земляной Вал, 18/22 тел. +7 (495) 916-28-05" class="place_title" href="/msk/places/49477/">Звезда</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7593900</span>, 
+        <span class="longitude">37.6570300</span> 
+       </div> </td> 
+      <td>Курская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 12:00 </span> </span> </li> 
+        <li data-time="1430324100" class="in_time"> <span><span>19:15</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2756"> 
+      <td> <a data-id="2756" title="ул. Костякова, 10 тел. +7 (499) 976-14-44 (заказ билетов)" class="place_title" href="/msk/places/2756/">Искра</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8140220</span>, 
+        <span class="longitude">37.5718120</span> 
+       </div> </td> 
+      <td>Дмитровская, Тимирязевская</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430319000" class="in_time"> <span><span>17:50</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_75685"> 
+      <td> <a data-id="75685" title="Московская обл., г. Реутов, Носовихинское ш., 45, ТРК «Реутов Парк» тел. +7 (495) 545-05-05 (автоответчик), +7 (800) 555-23-23 (единая справочная служба)" class="place_title" href="/msk/places/75685/">Каро 10 Реутов</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7521740</span>, 
+        <span class="longitude">37.8875800</span> 
+       </div> </td> 
+      <td>Новокосино</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430320500" class="in_time"> 
+         <y:ticket data-session-id="5016909" data-template="instance-sale" data-content="18:15">
+          <span><span>18:15</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2683"> 
+      <td> <a data-id="2683" title="ул. Щукинская, 42 тел. +7 (495) 545-05-05 (автоответчик), +7 (800) 555-23-23 (единая справочная служба)" class="place_title" href="/msk/places/2683/">Каро 10 Щука</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8094690</span>, 
+        <span class="longitude">37.4645710</span> 
+       </div> </td> 
+      <td>Щукинская</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430327100" class="in_time"> 
+         <y:ticket data-session-id="5034861" data-template="instance-sale" data-content="20:05">
+          <span><span>20:05</span></span>
+         </y:ticket> </li> 
+        <li data-time="1430345400" class="in_time"> 
+         <y:ticket data-session-id="5034815" data-template="instance-sale" data-content="01:10">
+          <span><span>01:10</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2699"> 
+      <td> <a data-id="2699" title="ул. Новый Арбат, 24 тел. +7 (495) 545-05-05 (автоответчик), +7 (800) 555-23-23 (единая справочная служба)" class="place_title" href="/msk/places/2699/">Каро 11 Октябрь</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7530830</span>, 
+        <span class="longitude">37.5876140</span> 
+       </div> </td> 
+      <td>Арбатская (ФЛ), Смоленская (ФЛ)</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 16:10 </span> </span> </li> 
+        <li data-time="1430324700" class="in_time"> 
+         <y:ticket data-session-id="5073531" data-template="instance-sale" data-content="19:25">
+          <span><span>19:25</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_77661"> 
+      <td> <a data-id="77661" title="66-й км. МКАД, ТРК «Vegas Крокус Сити» тел. +7 (800) 555-23-23 (единая справочная служба)" class="place_title" href="/msk/places/77661/">Каро 22 Vegas</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8207520</span>, 
+        <span class="longitude">37.3882500</span> 
+       </div> </td> 
+      <td>Мякинино</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 06:05 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 06:55 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 11:35 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 14:50 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 17:25 </span> </span> </li> 
+        <li data-time="1430319900" class="in_time"> 
+         <y:ticket data-session-id="4987962" data-template="instance-sale" data-content="18:05">
+          <span><span>18:05</span></span>
+         </y:ticket> </li> 
+        <li data-time="1430328600" class="in_time"> 
+         <y:ticket data-session-id="4988125" data-template="instance-sale" data-content="20:30">
+          <span><span>20:30</span></span>
+         </y:ticket> </li> 
+        <li data-time="1430331300" class="in_time"> 
+         <y:ticket data-session-id="4988243" data-template="instance-sale" data-content="21:15">
+          <span><span>21:15</span></span>
+         </y:ticket> </li> 
+        <li data-time="1430339700" class="in_time"> 
+         <y:ticket data-session-id="4988096" data-template="instance-sale" data-content="23:35">
+          <span><span>23:35</span></span>
+         </y:ticket> </li> 
+        <li data-time="1430342700" class="in_time"> 
+         <y:ticket data-session-id="4988054" data-template="instance-sale" data-content="00:25">
+          <span><span>00:25</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10202"> 
+      <td> <a data-id="10202" title="Московская обл., г. Мытищи, Шараповский пр., 2, ТК «Красный кит» тел. +7 (495) 545-05-05 (автоответчик), +7 (800) 555-23-23 (единая справочная служба)" class="place_title" href="/msk/places/10202/">Каро 5 Мытищи</a> 
+       <div class="geo"> 
+        <span class="latitude">55.9166460</span>, 
+        <span class="longitude">37.7590620</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 16:05 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_3011"> 
+      <td> <a data-id="3011" title="Севастопольский просп., 11Е, ТЦ «Капитолий Севастопольский» тел. +7 (495) 545-05-05 (автоответчик), +7 (800) 555-23-23 (единая справочная служба)" class="place_title" href="/msk/places/3011/">Каро 6 Севастопольский</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6870510</span>, 
+        <span class="longitude">37.6039180</span> 
+       </div> </td> 
+      <td>Академическая, Тульская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 16:00 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10209"> 
+      <td> <a data-id="10209" title="Зеленый просп., 81 тел. +7 (495) 545-05-05 (автоответчик), +7 (800) 555-23-23 (единая справочная служба)" class="place_title" href="/msk/places/10209/">Каро 7 Киргизия</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7517660</span>, 
+        <span class="longitude">37.8203400</span> 
+       </div> </td> 
+      <td>Новогиреево</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430324100" class="in_time"> 
+         <y:ticket data-session-id="4984243" data-template="instance-sale" data-content="19:15">
+          <span><span>19:15</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2679"> 
+      <td> <a data-id="2679" title="просп. Вернадского, 6, ТЦ «Капитолий Вернадского» тел. +7 (495) 545-05-05 (автоответчик), +7 (800) 555-23-23 (единая справочная служба)" class="place_title" href="/msk/places/2679/">Каро 8 Капитолий Вернадского</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6922420</span>, 
+        <span class="longitude">37.5279200</span> 
+       </div> </td> 
+      <td>Университет</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 13:20 </span> </span> </li> 
+        <li data-time="1430338500" class="in_time"> 
+         <y:ticket data-session-id="4982599" data-template="instance-sale" data-content="23:15">
+          <span><span>23:15</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10201"> 
+      <td> <a data-id="10201" title="Новоясеневский просп., 1, ТРЦ «Спектр» тел. +7 (495) 545-05-05 (автоответчик), +7 (800) 555-23-23 (единая справочная служба)" class="place_title" href="/msk/places/10201/">Каро 8 Теплый Стан</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6194670</span>, 
+        <span class="longitude">37.5092800</span> 
+       </div> </td> 
+      <td>Теплый стан</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 13:00 </span> </span> </li> 
+        <li data-time="1430328000" class="in_time"> 
+         <y:ticket data-session-id="5005028" data-template="instance-sale" data-content="20:20">
+          <span><span>20:20</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_51760"> 
+      <td> <a data-id="51760" title="ул. Венёвская, 6, ТЦ «Витте Молл», 3 этаж тел. +7 (495) 545-05-05 (автоответчик), +7 (800) 555-23-23 (единая справочная служба)" class="place_title" href="/msk/places/51760/">Каро 8 Южное Бутово</a> 
+       <div class="geo"> 
+        <span class="latitude">55.5484260</span>, 
+        <span class="longitude">37.5424240</span> 
+       </div> </td> 
+      <td>Бульвар адмирала Ушакова, Улица Скобелевская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:00 </span> </span> </li> 
+        <li data-time="1430328600" class="in_time"> 
+         <y:ticket data-session-id="4964936" data-template="instance-sale" data-content="20:30">
+          <span><span>20:30</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10199"> 
+      <td> <a data-id="10199" title="ул. Земляной Вал, 33, ТРК «Атриум» тел. +7 (495) 545-05-05 (автоответчик), +7 (800) 555-23-23 (единая справочная служба)" class="place_title" href="/msk/places/10199/">Каро 9 Атриум</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7572220</span>, 
+        <span class="longitude">37.6590750</span> 
+       </div> </td> 
+      <td>Курская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 12:35 </span> </span> </li> 
+        <li data-time="1430319600" class="in_time"> 
+         <y:ticket data-session-id="5007182" data-template="instance-sale" data-content="18:00">
+          <span><span>18:00</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_83979"> 
+      <td> <a data-id="83979" title="ул. Авиаконструктора Микояна, 10, ТРЦ «Авиапарк» тел. +7 (800) 555-23-23 (единая справочная служба)" class="place_title" href="/msk/places/83979/">Каро Sky 17</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7892660</span>, 
+        <span class="longitude">37.5338970</span> 
+       </div> </td> 
+      <td>Аэропорт, Динамо, Полежаевская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:05 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 14:15 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 17:30 </span> </span> </li> 
+        <li data-time="1430328900" class="in_time"> 
+         <y:ticket data-session-id="4996550" data-template="instance-sale" data-content="20:35">
+          <span><span>20:35</span></span>
+         </y:ticket> </li> 
+        <li data-time="1430340000" class="in_time"> 
+         <y:ticket data-session-id="4996453" data-template="instance-sale" data-content="23:40">
+          <span><span>23:40</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_4693"> 
+      <td> <a data-id="4693" title="Алтуфьевское ш., 8, ТЦ «Алтуфьевский» тел. +7 (495) 287-32-17" class="place_title" href="/msk/places/4693/">Кино на Алтуфьевском</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8528090</span>, 
+        <span class="longitude">37.5858170</span> 
+       </div> </td> 
+      <td>Владыкино</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430335200" class="in_time"> 
+         <y:ticket data-session-id="5041883" data-template="instance-sale" data-content="22:20">
+          <span><span>22:20</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_81808"> 
+      <td> <a data-id="81808" title="г. Одинцово, ул. Говорова, д. 163, ТЦ «Атлас» тел. +7 (498) 602-35-69" class="place_title" href="/msk/places/81808/">Киногалактика (Одинцово)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6909440</span>, 
+        <span class="longitude">37.3037180</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 15:20 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_50812"> 
+      <td> <a data-id="50812" title="Красная пл., 3, ГУМ, 3 линия, 3 этаж тел. +7 (495) 620-30-62" class="place_title" href="/msk/places/50812/">Кинозал ГУМ</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7546870</span>, 
+        <span class="longitude">37.6213280</span> 
+       </div> </td> 
+      <td>Охотный ряд, Площадь Революции, Театральная</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430329500" class="in_time"> 
+         <y:ticket data-session-id="4902154" data-template="instance-sale" data-content="20:45">
+          <span><span>20:45</span></span>
+         </y:ticket> </li> 
+        <li data-time="1430340900" class="in_time"> 
+         <y:ticket data-session-id="4902159" data-template="instance-sale" data-content="23:55">
+          <span><span>23:55</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2731"> 
+      <td> <a data-id="2731" title="Ленинский просп., 105 тел. +7 (495) 735-99-44 (автоответчик), +7 (495) 735-99-68" class="place_title" href="/msk/places/2731/">Киноклуб «Эльдар»</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6652790</span>, 
+        <span class="longitude">37.5133680</span> 
+       </div> </td> 
+      <td>Ленинский проспект, Юго-западная</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430322000" class="in_time"> <span><span>18:40</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10206"> 
+      <td> <a data-id="10206" title="Дмитровское ш., 89, ТЦ «XL»" class="place_title" href="/msk/places/10206/">Киномакс-XL</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8638580</span>, 
+        <span class="longitude">37.5457520</span> 
+       </div> </td> 
+      <td>Петровско-Разумовская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 16:40 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_80519"> 
+      <td> <a data-id="80519" title="ул. Головинское шоссе, 5, ТЦ «Водный», 3 этаж" class="place_title" href="/msk/places/80519/">Киномакс-Водный</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8401820</span>, 
+        <span class="longitude">37.4916400</span> 
+       </div> </td> 
+      <td>Водный стадион</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 16:40 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2716"> 
+      <td> <a data-id="2716" title="ул. Перерва, 43к.1, ТЦ «Бум», 3 этаж" class="place_title" href="/msk/places/2716/">Киномакс-Солярис</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6596470</span>, 
+        <span class="longitude">37.7496610</span> 
+       </div> </td> 
+      <td>Братиславская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 10:20 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2687"> 
+      <td> <a data-id="2687" title="ул. Правобережная, 1б тел. +7 (495) 775-77-79 (заказ билетов)" class="place_title" href="/msk/places/2687/">Киносфера</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8809450</span>, 
+        <span class="longitude">37.4495780</span> 
+       </div> </td> 
+      <td>Речной вокзал</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 12:15 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2750"> 
+      <td> <a data-id="2750" title="г. Мытищи, ул. Коммунистическая, 1 (1 км. от МКАД по Ярославскому ш.) тел. +7 (495) 789-96-91, +7 (800) 777-01-40" class="place_title" href="/msk/places/2750/">Киноцентр XL</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8916880</span>, 
+        <span class="longitude">37.7486020</span> 
+       </div> </td> 
+      <td>ВДНХ, Медведково</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 12:40 </span> </span> </li> 
+        <li data-time="1430326800" class="in_time"> 
+         <y:ticket data-session-id="5004271" data-template="instance-sale" data-content="20:00">
+          <span><span>20:00</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10208"> 
+      <td> <a data-id="10208" title="ул. Дружинниковская, 15 тел. +7 (499) 255-96-92, +7 (495) 605-73-06" class="place_title" href="/msk/places/10208/">Киноцентр Соловей на Красной Пресне</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7596940</span>, 
+        <span class="longitude">37.5748930</span> 
+       </div> </td> 
+      <td>Баррикадная, Краснопресненская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 09:30 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 12:05 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 13:55 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 17:30 </span> </span> </li> 
+        <li data-time="1430327400" class="in_time"> <span><span>20:10</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_74579"> 
+      <td> <a data-id="74579" title="Московская обл., г. Серпухов, Борисовское ш., 1 тел. +7 (4967) 39-19-39" class="place_title" href="/msk/places/74579/">Корстон (Серпухов)</a> 
+       <div class="geo"> 
+        <span class="latitude">54.9173600</span>, 
+        <span class="longitude">37.4258200</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 10:00 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 12:50 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 16:10 </span> </span> </li> 
+        <li data-time="1430330400" class="in_time"> 
+         <y:ticket data-session-id="4890828" data-template="instance-sale" data-content="21:00">
+          <span><span>21:00</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_75824"> 
+      <td> <a data-id="75824" title="просп. Мира, 109 тел. +7 (495) 687-53-63, +7 (495) 687-46-69" class="place_title" href="/msk/places/75824/">Космос</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8186870</span>, 
+        <span class="longitude">37.6366760</span> 
+       </div> </td> 
+      <td>ВДНХ</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 09:20 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10210"> 
+      <td> <a data-id="10210" title="Московская обл., г. Королев, ул. Дзержинского, 26 тел. +7 (498) 602-91-02, +7 (498) 602-91-19, +7 (495) 512-00-55, +7 (495) 745-96-69" class="place_title" href="/msk/places/10210/">Костино (Королев)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.9151800</span>, 
+        <span class="longitude">37.8549610</span> 
+       </div> </td> 
+      <td>ВДНХ</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:35 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10192"> 
+      <td> <a data-id="10192" title="МКАД, 71-й км. тел. +7 (495) 287-16-93 (автоответчик), +7 (495) 287-16-95, +7 (495) 961-02-61" class="place_title" href="/msk/places/10192/">Кронверк Синема Вэйпарк</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8607510</span>, 
+        <span class="longitude">37.3949050</span> 
+       </div> </td> 
+      <td>Митино, Планерная, Сходненская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 10:30 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 15:35 </span> </span> </li> 
+        <li data-time="1430331000" class="in_time"> 
+         <y:ticket data-session-id="4966325" data-template="instance-sale" data-content="21:10">
+          <span><span>21:10</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_18734"> 
+      <td> <a data-id="18734" title="ш. Энтузиастов, 12к.2, ТК «Город Лефортово» тел. +7 (495) 212-02-02, +7 (495) 961-02-61 (call-центр)" class="place_title" href="/msk/places/18734/">Кронверк Синема Лефортово</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7474240</span>, 
+        <span class="longitude">37.7070800</span> 
+       </div> </td> 
+      <td>Авиамоторная</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 13:00 </span> </span> </li> 
+        <li data-time="1430321700" class="in_time"> 
+         <y:ticket data-session-id="4955010" data-template="instance-sale" data-content="18:35">
+          <span><span>18:35</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_5028"> 
+      <td> <a data-id="5028" title="Ореховый б-р, 22а, ТРК «Облака» тел. +7 (495) 775-68-35, +7 (495) 961-02-61" class="place_title" href="/msk/places/5028/">Кронверк Синема Облака</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6120390</span>, 
+        <span class="longitude">37.7327630</span> 
+       </div> </td> 
+      <td>Домодедовская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 13:55 </span> </span> </li> 
+        <li data-time="1430325600" class="in_time"> 
+         <y:ticket data-session-id="4940891" data-template="instance-sale" data-content="19:40">
+          <span><span>19:40</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_51898"> 
+      <td> <a data-id="51898" title="Семеновская пл., 1, ТРЦ «Семеновский», 2 этаж тел. +7 (495) 961-02-61" class="place_title" href="/msk/places/51898/">Кронверк Синема Семеновский</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7827440</span>, 
+        <span class="longitude">37.7208160</span> 
+       </div> </td> 
+      <td>Семеновская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:00 </span> </span> </li> 
+        <li data-time="1430324100" class="in_time"> 
+         <y:ticket data-session-id="4930942" data-template="instance-sale" data-content="19:15">
+          <span><span>19:15</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_42243"> 
+      <td> <a data-id="42243" title="Московская обл., г. Балашиха, пр. Ленина, 25 тел. +7 (495) 926-03-50 (администратор), +7 (495) 926-03-51 (кассы)" class="place_title" href="/msk/places/42243/">Люксор (Балашиха)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7977970</span>, 
+        <span class="longitude">37.9385310</span> 
+       </div> </td> 
+      <td>Щелковская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 12:40 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_18736"> 
+      <td> <a data-id="18736" title="24-й км МКАД, пересечение с Каширским ш., ТРЦ «Vegas» тел. +7 (495) 984-72-88" class="place_title" href="/msk/places/18736/">Люксор Vegas</a> 
+       <div class="geo"> 
+        <span class="latitude">55.5845200</span>, 
+        <span class="longitude">37.7259560</span> 
+       </div> </td> 
+      <td>Домодедовская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:00 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 15:20 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_75137"> 
+      <td> <a data-id="75137" title="84-й км МКАД, пересечение с Алтуфьевским ш., ТРЦ «Весна» тел. +7 (495) 363-45-53 (касса), +7 (495) 363-44-53 (администратор)" class="place_title" href="/msk/places/75137/">Люксор Весна</a> 
+       <div class="geo"> 
+        <span class="latitude">55.9135570</span>, 
+        <span class="longitude">37.5838910</span> 
+       </div> </td> 
+      <td>Алтуфьево</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:00 </span> </span> </li> 
+        <li data-time="1430320800" class="in_time"> <span><span>18:20</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_74516"> 
+      <td> <a data-id="74516" title="Каширское ш., 14 тел. +7 (495) 789-91-99 (администратор),  +7 (495) 789-93-99 (кассы)" class="place_title" href="/msk/places/74516/">Люксор Гудзон</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6645850</span>, 
+        <span class="longitude">37.6268770</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li data-time="1430319600" class="in_time"> <span><span>18:00</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2693"> 
+      <td> <a data-id="2693" title="ул. Дубравная, вл. 34/29, ТЦ «Ладья» тел. +7 (495) 641-33-04, +7 (495) 641-33-05 (заказ билетов)" class="place_title" href="/msk/places/2693/">Люксор Митино</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8461130</span>, 
+        <span class="longitude">37.3582110</span> 
+       </div> </td> 
+      <td>Митино</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 17:10 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2695"> 
+      <td> <a data-id="2695" title="ул. Декабристов, 12, ТЦ «Золотой Вавилон» тел. +7 (495) 363-02-11, +7 (495) 363-02-12" class="place_title" href="/msk/places/2695/">Люксор Отрадное</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8631060</span>, 
+        <span class="longitude">37.6020490</span> 
+       </div> </td> 
+      <td>Отрадное</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430319000" class="in_time"> <span><span>17:50</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_13844"> 
+      <td> <a data-id="13844" title="пр-т Мира, 211, ТРЦ «Золотой Вавилон» тел. +7 (495) 665-13-53, +7 (495) 665-13-54 (доб. 2104, 2105)" class="place_title" href="/msk/places/13844/">Люксор Центр</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8461330</span>, 
+        <span class="longitude">37.6625960</span> 
+       </div> </td> 
+      <td>ВДНХ, Свиблово</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:40 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 12:10 </span> </span> </li> 
+        <li data-time="1430319000" class="in_time"> <span><span>17:50</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2696"> 
+      <td> <a data-id="2696" title="Новоясеневский просп., 11,  тел. +7 (495) 641-33-06 (бронирование), +7 (495) 641-33-07 (администратор)" class="place_title" href="/msk/places/2696/">Люксор Ясенево</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6066700</span>, 
+        <span class="longitude">37.5362840</span> 
+       </div> </td> 
+      <td>Ясенево</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 12:10 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_7070"> 
+      <td> <a data-id="7070" title="ул. Люблинская, 11 тел. +7 (499) 177-71-60 (касса, администратор), +7 (499) 177-90-10, +7 (499) 177-97-01" class="place_title" href="/msk/places/7070/">Молодежный</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7108640</span>, 
+        <span class="longitude">37.7312900</span> 
+       </div> </td> 
+      <td>Текстильщики</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 14:25 </span> </span> </li> 
+        <li data-time="1430330400" class="in_time"> <span><span>21:00</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_81345"> 
+      <td> <a data-id="81345" title="ул. Охотный Ряд, 2 тел. +7 (495) 730-10-31, +7 (495) 730-10-32" class="place_title" href="/msk/places/81345/">Москва</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7569700</span>, 
+        <span class="longitude">37.6166200</span> 
+       </div> </td> 
+      <td>Охотный ряд, Театральная</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 13:40 </span> </span> </li> 
+        <li data-time="1430322000" class="in_time"> <span><span>18:40</span></span> </li> 
+        <li data-time="1430332800" class="in_time"> <span><span>21:40</span></span> </li> 
+        <li data-time="1430343900" class="in_time"> <span><span>00:45</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2685"> 
+      <td> <a data-id="2685" title="Московская обл., г. Люберцы, Октябрьский просп., 198 тел. +7 (495) 215-16-25 (автоинформатор), 554-20-96, 554-20-74" class="place_title" href="/msk/places/2685/">Октябрь (Люберцы)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6771050</span>, 
+        <span class="longitude">37.8954190</span> 
+       </div> </td> 
+      <td>Жулебино</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 16:00 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_74578"> 
+      <td> <a data-id="74578" title="Московская обл., г. Руза, ул. Гладышева, 12 тел. +7 (49627) 2-01-24" class="place_title" href="/msk/places/74578/">Октябрь (Руза)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7026020</span>, 
+        <span class="longitude">36.2046910</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 09:15 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_75567"> 
+      <td> <a data-id="75567" title="5-я Кабельная ул., 2, ТРК «СпортEX», 3 этаж тел. +7 (495) 647-49-19" class="place_title" href="/msk/places/75567/">Олимпик Синема</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7379170</span>, 
+        <span class="longitude">37.7170270</span> 
+       </div> </td> 
+      <td>Авиамоторная</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 12:00 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 16:30 </span> </span> </li> 
+        <li data-time="1430328000" class="in_time"> 
+         <y:ticket data-session-id="5041664" data-template="instance-sale" data-content="20:20">
+          <span><span>20:20</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_45040"> 
+      <td> <a data-id="45040" title="просп. Андропова, 8, ТРЦ «Мегаполис», 3 этаж тел. +7 (495) 663-36-64" class="place_title" href="/msk/places/45040/">Радуга Кино</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6958700</span>, 
+        <span class="longitude">37.6648960</span> 
+       </div> </td> 
+      <td>Коломенская</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430326800" class="in_time"> <span><span>20:00</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2708"> 
+      <td> <a data-id="2708" title="Семеновская пл., 5 тел. +7 (499) 369-17-81 (автоинформатор), +7 (499) 369-07-93 (бронирование билетов)" class="place_title" href="/msk/places/2708/">Родина</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7815650</span>, 
+        <span class="longitude">37.7178690</span> 
+       </div> </td> 
+      <td>Семеновская</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430337300" class="in_time"> <span><span>22:55</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2709"> 
+      <td> <a data-id="2709" title="Чистопрудный б-р, 12а тел. +7 (495) 916-91-90 (автоинформатор), +7 (495) 916-91-69, (заказ билетов), +7 (495) 916-94-12 (заказ билетов)" class="place_title" href="/msk/places/2709/">Ролан</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7606210</span>, 
+        <span class="longitude">37.6438210</span> 
+       </div> </td> 
+      <td>Тургеневская, Чистые пруды</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430328600" class="in_time"> 
+         <y:ticket data-session-id="4917559" data-template="instance-sale" data-content="20:30">
+          <span><span>20:30</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2710"> 
+      <td> <a data-id="2710" title="Романов пер., 4 тел. +7 (495) 609-64-54" class="place_title" href="/msk/places/2710/">Романов Синема</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7546640</span>, 
+        <span class="longitude">37.6089840</span> 
+       </div> </td> 
+      <td>Библиотека им. Ленина, Охотный ряд</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 14:30 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2757"> 
+      <td> <a data-id="2757" title="ул. Кедрова, 14/3 тел. +7 (499) 125-04-48, +7 (499) 125-01-35" class="place_title" href="/msk/places/2757/">Салют</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6828130</span>, 
+        <span class="longitude">37.5713000</span> 
+       </div> </td> 
+      <td>Академическая</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 15:35 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2748"> 
+      <td> <a data-id="2748" title="ул. Снежная, 18 тел. +7 (499) 180-43-88" class="place_title" href="/msk/places/2748/">Сатурн</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8519690</span>, 
+        <span class="longitude">37.6475700</span> 
+       </div> </td> 
+      <td>Свиблово</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 10:40 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 16:00 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_52092"> 
+      <td> <a data-id="52092" title="Московская обл., г. Балашиха, ш. Энтузиастов, 1б, ТЦ «Светофор», 4 этаж тел. +7 (498) 662-43-97 (касса), +7 (495) 662-99-75 (автоинформатор)" class="place_title" href="/msk/places/52092/">Светофор (Балашиха)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7943100</span>, 
+        <span class="longitude">37.9264760</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 10:20 </span> </span> </li> 
+        <li data-time="1430322000" class="in_time"> 
+         <y:ticket data-session-id="5048986" data-template="instance-sale" data-content="18:40">
+          <span><span>18:40</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_52095"> 
+      <td> <a data-id="52095" title="Московская обл., г. Люберцы, ул. Побратимов, 7 тел. +7 (498) 602-82-70 (кассы), +7 (499) 504-42-92 (автоинформатор)" class="place_title" href="/msk/places/52095/">Светофор (Люберцы)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6921250</span>, 
+        <span class="longitude">37.8965080</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 14:00 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_3019"> 
+      <td> <a data-id="3019" title="ул. Красного Маяка, 2б, ТРК «Пражский Пассаж», 3 этаж тел. +7 (495) 721-82-80, +7 (495) 721-36-34 (заказ билетов)" class="place_title" href="/msk/places/3019/">Сезон Синема на Пражской</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6110890</span>, 
+        <span class="longitude">37.6068020</span> 
+       </div> </td> 
+      <td>Пражская</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430341200" class="in_time"> <span><span>00:00</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_68312"> 
+      <td> <a data-id="68312" title="Московская обл., г. Солнечногорск, ул. Почтовая, 17/8 (ТЦ &quot;Сенеж&quot;, 3 этаж) тел. +7 (496) 263-86-05, +7 (495) 666-04-19" class="place_title" href="/msk/places/68312/">Сенеж (Солнечногорск)</a> 
+       <div class="geo"> 
+        <span class="latitude">56.1847080</span>, 
+        <span class="longitude">36.9766140</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 15:30 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_71688"> 
+      <td> <a data-id="71688" title="Московская обл., г. Ивантеевка, Советский пр-т, д. 2а, ТРЦ «Гагарин» тел. +7 (496) 506-17-06" class="place_title" href="/msk/places/71688/">Синема Компани (Ивантеевка)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.9752240</span>, 
+        <span class="longitude">37.9068720</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li data-time="1430334000" class="in_time"> 
+         <y:ticket data-session-id="4979534" data-template="instance-sale" data-content="22:00">
+          <span><span>22:00</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_71689"> 
+      <td> <a data-id="71689" title="Московская обл., г. Лыткарино, ул. Парковая, 2 тел. +7 (499) 429-04-30" class="place_title" href="/msk/places/71689/">Синема Компани (Лыткарино)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.5820600</span>, 
+        <span class="longitude">37.9122070</span> 
+       </div> </td> 
+      <td>Кузьминки</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 10:45 </span> </span> </li> 
+        <li data-time="1430330400" class="in_time"> 
+         <y:ticket data-session-id="5004289" data-template="instance-sale" data-content="21:00">
+          <span><span>21:00</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_11717"> 
+      <td> <a data-id="11717" title="Багратионовский пр-т, 5, ТРЦ «Филион» тел. +7 (495) 644-41-11 (заказ билетов), 8 (800) 700-01-11" class="place_title" href="/msk/places/11717/">Синема Парк Starlight на Багратионовской</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7436490</span>, 
+        <span class="longitude">37.5081220</span> 
+       </div> </td> 
+      <td>Багратионовская, Фили</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 13:10 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10207"> 
+      <td> <a data-id="10207" title="Ленинградское ш., 16, «Метрополис» тел. +7 (495) 644-41-11 (заказ билетов), 8 (800) 700-01-11" class="place_title" href="/msk/places/10207/">Синема Парк Метрополис</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8232920</span>, 
+        <span class="longitude">37.4978000</span> 
+       </div> </td> 
+      <td>Войковская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 13:15 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10217"> 
+      <td> <a data-id="10217" title="ул. Профсоюзная, 61а, ТЦ «Калужский»,  3-й этаж тел. +7 (495) 644-41-11 (заказ билетов), 8 (800) 700-01-11" class="place_title" href="/msk/places/10217/">Синема Парк на Калужской</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6558960</span>, 
+        <span class="longitude">37.5415370</span> 
+       </div> </td> 
+      <td>Калужская</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430329200" class="in_time"> 
+         <y:ticket data-session-id="4934876" data-template="instance-sale" data-content="20:40">
+          <span><span>20:40</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10219"> 
+      <td> <a data-id="10219" title="ул. Днепропетровская, 2, ТЦ «Глобал Сити» тел. +7 (495) 644-41-11,  (800) 700-01-11" class="place_title" href="/msk/places/10219/">Синема Парк на Южной</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6230000</span>, 
+        <span class="longitude">37.6038550</span> 
+       </div> </td> 
+      <td>Южная</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430329500" class="in_time"> 
+         <y:ticket data-session-id="4935385" data-template="instance-sale" data-content="20:45">
+          <span><span>20:45</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_42109"> 
+      <td> <a data-id="42109" title="Московская обл., г. Реутов, 2-й км МКАД, ТЦ «Рио» тел. +7 (495) 980-44-15 (автоответчик), +7 (495) 980-28-80 (кассы)" class="place_title" href="/msk/places/42109/">Синема Стар (Реутов)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7642980</span>, 
+        <span class="longitude">37.8451090</span> 
+       </div> </td> 
+      <td>Новогиреево, Новокосино</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:00 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_70610"> 
+      <td> <a data-id="70610" title="Ленинский проспект, вл. 109 тел. +7 (495) 988-03-33" class="place_title" href="/msk/places/70610/">Синема Стар на Ленинском</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6638450</span>, 
+        <span class="longitude">37.5113370</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:00 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_75138"> 
+      <td> <a data-id="75138" title="Профсоюзная, 129а, ТРЦ «Принц Плаза» тел. +7 (495) 988-03-33" class="place_title" href="/msk/places/75138/">Синема Стар Принц Плаза</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6182030</span>, 
+        <span class="longitude">37.5073870</span> 
+       </div> </td> 
+      <td>Теплый стан</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 10:25 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10216"> 
+      <td> <a data-id="10216" title="Дмитровское ш., 163а, к. 1, ТРЦ «Рио» тел. +7 (495) 988-03-33" class="place_title" href="/msk/places/10216/">Синема Стар Рио на Дмитровском шоссе</a> 
+       <div class="geo"> 
+        <span class="latitude">55.9093680</span>, 
+        <span class="longitude">37.5403620</span> 
+       </div> </td> 
+      <td>Алтуфьево</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 10:55 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_42454"> 
+      <td> <a data-id="42454" title="ул. Люблинская, 169, к.2, 4 этаж ТРЦ «МариЭль» тел. +7 (495) 783-00-39" class="place_title" href="/msk/places/42454/">Фиеста Синема</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6490980</span>, 
+        <span class="longitude">37.7449180</span> 
+       </div> </td> 
+      <td>Марьино</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430328300" class="in_time"> <span><span>20:25</span></span> </li> 
+        <li data-time="1430338800" class="in_time"> <span><span>23:20</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2675"> 
+      <td> <a data-id="2675" title="ул. Миклухо-Маклая, 27а тел. +7 (495) 795-37-95 (автоответчик)" class="place_title" href="/msk/places/2675/">Формула Кино Витязь</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6474680</span>, 
+        <span class="longitude">37.5168980</span> 
+       </div> </td> 
+      <td>Беляево</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 10:40 </span> </span> </li> 
+        <li data-time="1430321700" class="in_time"> 
+         <y:ticket data-session-id="4990697" data-template="instance-sale" data-content="18:35">
+          <span><span>18:35</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2677"> 
+      <td> <a data-id="2677" title="Комсомольский просп., 21/10 тел. 8-800-250-80-25 (автоинформатор)" class="place_title" href="/msk/places/2677/">Формула Кино Горизонт</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7281300</span>, 
+        <span class="longitude">37.5844190</span> 
+       </div> </td> 
+      <td>Фрунзенская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 16:20 </span> </span> </li> 
+        <li data-time="1430335500" class="in_time"> 
+         <y:ticket data-session-id="5066550" data-template="instance-sale" data-content="22:25">
+          <span><span>22:25</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2722"> 
+      <td> <a data-id="2722" title="пл. Киевского Вокзала, вл. 2, ТРЦ «Европейский» тел. +7 (495) 795-37-95 (единая справочная)" class="place_title" href="/msk/places/2722/">Формула Кино Европа</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7444850</span>, 
+        <span class="longitude">37.5662430</span> 
+       </div> </td> 
+      <td>Киевская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:45 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 13:10 </span> </span> </li> 
+        <li data-time="1430335200" class="in_time"> 
+         <y:ticket data-session-id="5080792" data-template="instance-sale" data-content="22:20">
+          <span><span>22:20</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2692"> 
+      <td> <a data-id="2692" title="ул. Широкая, 12 тел. +7 (495) 795-37-95 (автоответчик)" class="place_title" href="/msk/places/2692/">Формула Кино Ладога</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8867110</span>, 
+        <span class="longitude">37.6594160</span> 
+       </div> </td> 
+      <td>Медведково</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430319900" class="in_time"> 
+         <y:ticket data-session-id="4948735" data-template="instance-sale" data-content="18:05">
+          <span><span>18:05</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2723"> 
+      <td> <a data-id="2723" title="Мичуринский просп., 3 к.1 тел. +7 (495) 795-37-95 (автоответчик)" class="place_title" href="/msk/places/2723/">Формула Кино на Мичуринском</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6783370</span>, 
+        <span class="longitude">37.4675990</span> 
+       </div> </td> 
+      <td>Проспект Вернадского, Юго-западная</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 10:25 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 16:35 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2724"> 
+      <td> <a data-id="2724" title="53-й км МКАД, на пересечении Можайского ш. и МКАД тел. +7 (495) 795-37-95 (автоответчик)" class="place_title" href="/msk/places/2724/">Формула Кино на Можайке</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7055430</span>, 
+        <span class="longitude">37.3891790</span> 
+       </div> </td> 
+      <td>Молодежная</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 10:10 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 15:50 </span> </span> </li> 
+        <li data-time="1430331000" class="in_time"> 
+         <y:ticket data-session-id="4976707" data-template="instance-sale" data-content="21:10">
+          <span><span>21:10</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2725"> 
+      <td> <a data-id="2725" title="Рублевское ш., 62, ТЦ «Европарк» тел. +7 (495) 795-37-95 (автоответчик)" class="place_title" href="/msk/places/2725/">Формула Кино на Рублевке</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7673030</span>, 
+        <span class="longitude">37.3810160</span> 
+       </div> </td> 
+      <td>Крылатское, Молодежная</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 15:35 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2706"> 
+      <td> <a data-id="2706" title="ул. Нижняя Масловка, 10 тел. +7 (495) 795-37-95 (автоответчик)" class="place_title" href="/msk/places/2706/">Формула Кино Прага</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7926960</span>, 
+        <span class="longitude">37.5780200</span> 
+       </div> </td> 
+      <td>Савеловская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 13:20 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_45523"> 
+      <td> <a data-id="45523" title="Пресненская наб., 2, ТРЦ «Афимолл Сити» тел. +7 (495) 795-37-95 (автоответчик)" class="place_title" href="/msk/places/45523/">Формула Кино Сити</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7491980</span>, 
+        <span class="longitude">37.5397590</span> 
+       </div> </td> 
+      <td>Выставочная</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 12:00 </span> </span> </li> 
+        <li data-time="1430335800" class="in_time"> 
+         <y:ticket data-session-id="4924756" data-template="instance-sale" data-content="22:30">
+          <span><span>22:30</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2718"> 
+      <td> <a data-id="2718" title="Смоленская-Сенная пл., 23/25 тел. +7 (495) 795-37-95 (автоответчик)" class="place_title" href="/msk/places/2718/">Формула Кино Стрела</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7439230</span>, 
+        <span class="longitude">37.5826550</span> 
+       </div> </td> 
+      <td>Смоленская (АПЛ), Смоленская (ФЛ)</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:50 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_50004"> 
+      <td> <a data-id="50004" title="мкр. Северное Чертаново, 1а, стр. 2, ТРЦ «Авентура» тел. +7 (495) 795-37-95" class="place_title" href="/msk/places/50004/">Формула Кино Чертаново</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6366120</span>, 
+        <span class="longitude">37.5994720</span> 
+       </div> </td> 
+      <td>Чертановская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 10:45 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 16:40 </span> </span> </li> 
+        <li data-time="1430335800" class="in_time"> 
+         <y:ticket data-session-id="4950800" data-template="instance-sale" data-content="22:30">
+          <span><span>22:30</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_79979"> 
+      <td> <a data-id="79979" title="ул. Борисовские Пруды, вл.26, корп.2, ТРЦ «Браво» тел. +7 (499) 270-02-22 (касса), +7 (499) 270-02-00 (администратор)" class="place_title" href="/msk/places/79979/">Центрфильм в Братеево</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6399530</span>, 
+        <span class="longitude">37.7582040</span> 
+       </div> </td> 
+      <td>Алма-Атинская, Борисово</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 12:15 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 15:05 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 17:35 </span> </span> </li> 
+        <li data-time="1430327400" class="in_time"> 
+         <y:ticket data-session-id="4962315" data-template="instance-sale" data-content="20:10">
+          <span><span>20:10</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_10223"> 
+      <td> <a data-id="10223" title="Московская обл., г. Мытищи, ул. Селезнева, 33, ТРЦ «Перловский» тел. +7 (495) 589-19-19, +7 (495) 600-38-60  (автоответчик), +7 (495) 600-38-11 (заказ билетов)" class="place_title" href="/msk/places/10223/">Центрфильм в Мытищах</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8918550</span>, 
+        <span class="longitude">37.7276070</span> 
+       </div> </td> 
+      <td>Медведково</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:20 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 14:45 </span> </span> </li> 
+        <li data-time="1430326200" class="in_time"> 
+         <y:ticket data-session-id="4908818" data-template="instance-sale" data-content="19:50">
+          <span><span>19:50</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2727"> 
+      <td> <a data-id="2727" title="Щелковское ш., 100 к.100, ТЦ «Щелково» тел. +7 (499) 684-00-24 (касса), +7 (495) 589-19-19 (автоинформатор)" class="place_title" href="/msk/places/2727/">Центрфильм на Щелковской</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8105940</span>, 
+        <span class="longitude">37.8307140</span> 
+       </div> </td> 
+      <td>Щелковская</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 11:35 </span> </span> </li> 
+        <li class="time_inactive"> <span> <span> 14:30 </span> </span> </li> 
+        <li data-time="1430325000" class="in_time"> 
+         <y:ticket data-session-id="4948130" data-template="instance-sale" data-content="19:30">
+          <span><span>19:30</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2728"> 
+      <td> <a data-id="2728" title="87-й км МКАД, 8, ТЦ «Час Пик», 3 этаж тел. +7 (495) 580-22-23 (автоинформатор) +7 (495) 580-22-25 (бронирование билетов)" class="place_title" href="/msk/places/2728/">Час кино Алтуфьево</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8986940</span>, 
+        <span class="longitude">37.6291790</span> 
+       </div> </td> 
+      <td>Алтуфьево, Бибирево, Медведково</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 12:10 </span> </span> </li> 
+        <li data-time="1430321400" class="in_time"> 
+         <y:ticket data-session-id="4938603" data-template="instance-sale" data-content="18:30">
+          <span><span>18:30</span></span>
+         </y:ticket> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_59007"> 
+      <td> <a data-id="59007" title="ул. Снежная, 27, ТК «Свиблово», 3 этаж тел. +7 (499) 685-16-51 (справки и бронирование) +7 (499) 685-16-52 (автоинформатор)" class="place_title" href="/msk/places/59007/">Час Кино Свиблово</a> 
+       <div class="geo"> 
+        <span class="latitude">55.8562090</span>, 
+        <span class="longitude">37.6533180</span> 
+       </div> </td> 
+      <td>Свиблово</td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 17:00 </span> </span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2729"> 
+      <td> <a data-id="2729" title="Московская обл., г. Щелково, Пролетарский просп., 10 тел. +7 (496) 569-23-33 (бронирование билетов), +7 (496) 562-14-66 (автоответчик)" class="place_title" href="/msk/places/2729/">Щелково</a> 
+       <div class="geo"> 
+        <span class="latitude">55.9239420</span>, 
+        <span class="longitude">38.0013960</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 16:05 </span> </span> </li> 
+        <li data-time="1430347800" class="in_time"> <span><span>01:50</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_2739"> 
+      <td> <a data-id="2739" title="ул. Маршала Рыбалко, 1 тел. +7 (499) 194-02-75, +7 (499) 194-24-30, +7 (499) 194-10-26" class="place_title" href="/msk/places/2739/">Юность</a> 
+       <div class="geo"> 
+        <span class="latitude">55.7951150</span>, 
+        <span class="longitude">37.4952490</span> 
+       </div> </td> 
+      <td>Октябрьское поле</td> 
+      <td> 
+       <ul> 
+        <li data-time="1430319600" class="in_time"> <span><span>18:00</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+     <tr class="place place_id_50520"> 
+      <td> <a data-id="50520" title="Московская обл., г.Одинцово, Школьный проезд, д. 6 тел. +7 (495) 783-34-44 (бронирование билетов), +7 (495) 590-63-22 (администратор)" class="place_title" href="/msk/places/50520/">Юность (Одинцово)</a> 
+       <div class="geo"> 
+        <span class="latitude">55.6724640</span>, 
+        <span class="longitude">37.2762030</span> 
+       </div> </td> 
+      <td></td> 
+      <td> 
+       <ul> 
+        <li class="time_inactive"> <span> <span> 16:40 </span> </span> </li> 
+        <li data-time="1430325600" class="in_time"> <span><span>19:40</span></span> </li> 
+        <li data-time="1430337000" class="in_time"> <span><span>22:50</span></span> </li> 
+       </ul> </td> 
+     </tr> 
+    </tbody>
+   </table> 
+  </div> 
+ </div> 
+ <div class="schedule_map-h"> 
+  <span id="print_link"><img src="/media/desktop/img/print-iconb.png" align="absmiddle">&nbsp;Печать</span> 
+  <div id="schedule_map_data"></div> 
+ </div> </td>
+<td class="l-page__right chooser_data"> 
+ <table cellspacing="0" cellpadding="0" border="0" class="sch2_days"> 
+  <tbody>
+   <tr class="week"> 
+    <td class="arrow"> &nbsp; </td> 
+    <td style="white-space: nowrap;"> 27 апреля — 3 мая </td> 
+    <td class="arrow"> <a href="?date=2015-05-04#schedule">→</a> </td> 
+   </tr> 
+  </tbody>
+ </table> 
+ <table class="sch2_week"> 
+  <tbody>
+   <tr> 
+    <td class="inactive"> пн<br>27 </td> 
+    <td class="inactive"> вт<br>28 </td> 
+    <td class=" selected"> ср<br>29 </td> 
+    <td class=""> <a title="30 апреля" href="?date=2015-04-30#schedule">чт<br>30</a> </td> 
+    <td class=""> <a title="1 мая" href="?date=2015-05-01#schedule">пт<br>01</a> </td> 
+    <td class=" holiday"> <a title="2 мая" href="?date=2015-05-02#schedule">сб<br>02</a> </td> 
+    <td class=" holiday"> <a title="3 мая" href="?date=2015-05-03#schedule">вс<br>03</a> </td> 
+   </tr> 
+  </tbody>
+ </table> 
+ <div class="b-time-chooser"> 
+  <table class="b-time-chooser__sheet"> 
+   <tbody>
+    <tr> 
+     <td> <span> Утром </span> </td> 
+     <td> 06:00—12:00 </td> 
+    </tr> 
+    <tr> 
+     <td> <a onclick="r(this, 'stred/pid=59/cid=495')" href="?date=2015-04-29&amp;start_time=12%3A00%3A00&amp;end_time=18%3A00%3A00#schedule"> Днем </a> </td> 
+     <td> 12:00—18:00 </td> 
+    </tr> 
+    <tr> 
+     <td> <a onclick="r(this, 'stred/pid=59/cid=495')" href="?date=2015-04-29&amp;start_time=18%3A00%3A00&amp;end_time=00%3A00%3A00#schedule"> Вечером </a> </td> 
+     <td> 18:00—00:00 </td> 
+    </tr> 
+    <tr> 
+     <td> <a onclick="r(this, 'stred/pid=59/cid=495')" href="?date=2015-04-29&amp;start_time=00%3A00%3A00&amp;end_time=06%3A00%3A00#schedule"> Ночью </a> </td> 
+     <td> 00:00—06:00 </td> 
+    </tr> 
+   </tbody>
+  </table> 
+ </div> 
+ <div class="b-disclaimer"> 
+  <i class="i-disclaimer"></i> 
+  <p>Администрация кинотеатров оставляет за собой право изменить время сеанса в день показа. Уточняйте расписание по контактным телефонам выбранного кинотеатра.</p> 
+ </div> </td>
